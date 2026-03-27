@@ -15,14 +15,6 @@
           <a href="https://www.w3schools.com/css/" target="_blank">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/> 
           </a>
-         &emsp;
-          <a href="https://www.w3schools.com/javascript/" target="_blank">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original-wordmark.svg" alt="css3" width="50" height="50"/> 
-          </a> 
-         &emsp;
-          <a href="https://www.w3schools.com/bootstrap/" target="_blank">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap5/bootstrap5-original-wordmark.svg" alt="bootstrap5" width="50" height="50"/> 
-          </a> 
   </li>
  <li> <b> Backend : </b>
      <p align = "left">
